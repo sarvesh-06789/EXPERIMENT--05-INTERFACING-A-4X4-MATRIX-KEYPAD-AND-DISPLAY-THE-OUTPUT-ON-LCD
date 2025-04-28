@@ -1,6 +1,7 @@
 # EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
 
-## Name : Rhudhra phriyamvadha K S
+## Name : SHARVESHWARAN M
+## Reg No : 212224240150
 ## Date : 25-04-2025
 
 ## Aim: 
